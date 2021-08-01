@@ -1,0 +1,14 @@
+*.swp
+*.pyc
+*.swo
+*.swn
+*.txt
+*.csv
+*.json
+*.h5
+
+.idea/*
+*.zip
+*.gz
+.DS_Store
+/models
